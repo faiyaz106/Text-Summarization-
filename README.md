@@ -3,7 +3,7 @@ Text summarization is the process of extracting important details from a text do
 
 Unsupervised Text Summarization methods (Extractive Summarization)  i) TF-IDF Based Summarization
 
-                                                                    ii) Centroid Based Summarization
+                                                                     ii) Centroid Based Summarization
 
 
                                                                    
