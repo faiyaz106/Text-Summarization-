@@ -7,17 +7,17 @@ Unsupervised Text Summarization methods (Extractive Summarization)  i) TF-IDF Ba
 
 TF-IDF Based Summarizer (Calculation):
 
-Term Frequency: For every word in given sentence we have calculated term frequency  
+            Term Frequency: For every word in given sentence we have calculated term frequency  
 
-TF =Number of Repetition of Wi in  sentence/Number of words in sentence
+                             TF =Number of Repetition of Wi in  sentence/Number of words in sentence
 
-Inverse Document Frequency: For every word in complete text given IDF Score.
+            Inverse Document Frequency: For every word in complete text given IDF Score.
 
-                          IDF=log(Total Number of Sentences/Number of sentences containg word Wi)
+                             IDF=log(Total Number of Sentences/Number of sentences containg word Wi)
                           
-                          TF-IDF: Assigning weight for each word based on TF and IDF score
+                             TF-IDF: Assigning weight for each word based on TF and IDF score
                           
-                          Weight(Wi) =TF*IDF
+                             Weight(Wi) =TF*IDF
                                   
            Sentence Weightage: Sentence Weight=Sum of weight of all words in sentenceNumber of words in Sentence
            
