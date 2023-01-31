@@ -5,6 +5,7 @@ In this project, we have applied two type of extractive text summarization techn
 1. Frequency based: 
      * TF-IDF Based 
      * Centroid Based (Consine Similarity)
+     * Luhn's Method
 2. Graph Based: 
      * Text Rank (Based on concept of Page Rank undirected graph)
 
